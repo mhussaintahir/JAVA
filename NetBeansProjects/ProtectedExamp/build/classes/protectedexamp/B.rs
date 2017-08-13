@@ -1,0 +1,3 @@
+protectedexamp.ProtectedExamp
+protectedexamp.A
+protectedexamp.B
